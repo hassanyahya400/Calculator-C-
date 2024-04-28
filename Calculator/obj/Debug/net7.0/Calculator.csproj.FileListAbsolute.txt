@@ -1,0 +1,14 @@
+/Users/hassanyahya/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator
+/Users/hassanyahya/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/hassanyahya/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/hassanyahya/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/hassanyahya/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/hassanyahya/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hassanyahya/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/hassanyahya/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/hassanyahya/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/hassanyahya/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/hassanyahya/Projects/Calculator/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/hassanyahya/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/hassanyahya/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/hassanyahya/Projects/Calculator/Calculator/obj/Debug/net7.0/ref/Calculator.dll
